@@ -46,7 +46,7 @@
     CI/CD Pipelines: Automated pipelines for testing and deploying code changes.
     and engaging user experiences, as well as analyzing, evaluating, and enhancing those experiences over time.
 
-Database Design Overview
+Database Design
 
     Users 
     a user can have multiple properties
@@ -72,35 +72,42 @@ Database Design Overview
 
 Feature Breakdown
     
-  User Management 
+    User Management 
     Implement a secure system for user registration.
     Deploys a system for user authentication. 
     Creates a feature for profile management.
     
-  Property Management 
+    Property Management 
     Develop features for property listing creation.
     Develops system for flexible updates of properties.
     Creates a reliable channel for the retrieval of data.
     
-  Booking System
+    Booking System
     Creates a booking mechanism for users to reserve properties. 
     Deploy a feature to enable management of booking details.
     Implement a system to enable users access their booking details.
     
-  Payment Processing 
+    Payment Processing 
     Integrate a payment system to handle transactions.
     Deploy systems to record payment details.
     Create a user friendly payment system.
     
-  Review System
+    Review System
     Allow users to leave reviews for each property booked.
     Create a feature to allow users rate specific properties.
     Deploy a system to manage the feedbacks given by users.
-  API Documentation
+    API Documentation
     The backend APIs are documented using the OpenAPI standard to ensure clarity and ease of integration.
     Django REST Framework provides a comprehensive RESTful API for handling CRUD operations on user and property data.
     GraphQL offers a flexible and efficient query mechanism for interacting with the backend.
-  Data Optimization 
+    Data Optimization 
     Ensure efficient data retrieval
     Enable save storage of user and property data. 
     Enhance database optimizations.
+
+  API Security
+    Authentication: this ensures that users are completely verified before giving access to data from the system. 
+    Authorization: this features declares and defines the data that can be accessed and modified by the user.
+    Rate limiting: this system defines and manages the ratings a user to create for a property.
+    Protecting user data: security is essential in protecting user data to prevent unauthorize access and modification to user data. 
+    Securing payments: security features to secure payments deny intruders from having access to payment systems.
