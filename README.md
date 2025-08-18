@@ -111,3 +111,9 @@ Feature Breakdown
     Rate limiting: this system defines and manages the ratings a user to create for a property.
     Protecting user data: security is essential in protecting user data to prevent unauthorize access and modification to user data. 
     Securing payments: security features to secure payments deny intruders from having access to payment systems.
+  
+  CI/CD Pipeline
+    A CI/CD pipeline is an automated process that streamlines software development by integrating, testing and 
+    deploying code changes continuously.CI stands for Continuous Integration whereas CD stands for Continuous 
+    Delivery/Deployment. It aims to release software updates faster and more reliably. Some CI/CD Pipelines include
+    GitHub Actions, Docker, GitLab, CircleCI, Jenkins, TeamCity, Azure DevOps Server etc
