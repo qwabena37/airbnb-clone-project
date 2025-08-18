@@ -44,6 +44,28 @@
     Redis: Used for caching and session management.
     Docker: Containerization tool for consistent development and deployment environments.
     CI/CD Pipelines: Automated pipelines for testing and deploying code changes.
-
     and engaging user experiences, as well as analyzing, evaluating, and enhancing those experiences over time.
 
+Database Design 
+
+    Users 
+    a user can have multiple properties
+    users can edit their profiles
+    users are authenticated from the database
+    Properties
+    a booking belongs to a property
+    a user can select from the available properties
+    a selected property can be deselected  
+    Bookings
+    a user can create a booking 
+    bookings can be reviewed
+    a booking must contain at least one of the properties displayed
+    Bookings can be updated from the profile
+    Reviews 
+    Reviews must posted for the respective property
+    Reviews for properties must be checked and cleaned regularly
+    A review must be posted for each property displayed 
+    Payments
+    Payments related to bookings must be handled individually
+    Users must have placeholders for payment
+    Payment for each property must be shown in the bookings
