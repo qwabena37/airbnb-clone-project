@@ -25,4 +25,13 @@
     Docker: Containerization tool for consistent development and deployment environments.
     CI/CD Pipelines: Automated pipelines for testing and deploying code changes.
 
+👥 Team Roles
+
+    Backend Developer: Responsible for implementing API endpoints, database schemas, and business logic.
+    Database Administrator: Manages database design, indexing, and optimizations.
+    DevOps Engineer: Handles deployment, monitoring, and scaling of the backend services.
+    QA Engineer: Ensures the backend functionalities are thoroughly tested and meet quality standards.
+    Test automation engineer: Helps you test faster and better. 
+    UI/UX designer: Accompanies throughout the development lifecycle, helping to achieve business goals via functional 
+    and engaging user experiences, as well as analyzing, evaluating, and enhancing those experiences over time.
 
