@@ -2,7 +2,7 @@
   Project Airbnb Brief Summary 
 
   The Airbnb Clone backend is built to handle users, property listings, bookings, and payments, providing the core 
-  features needed for a smooth and scalable Airbnb-like experience.**
+  features needed for a smooth and scalable Airbnb-like experience.
 
 
 🏆 Project Goals
