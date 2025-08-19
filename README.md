@@ -1,9 +1,10 @@
-  #airbnb-clone-project
-  Project Airbnb Brief Summary 
+🚀Project Airbnb Brief Summary 
 
-  The Airbnb Clone backend is built to handle users, property listings, bookings, and payments, providing the core 
-  features needed for a smooth and scalable Airbnb-like experience.
-
+    The Airbnb Clone Project is a comprehensive, real-world application designed to simulate the development of a robust
+    booking platform like Airbnb. It involves a deep dive into full-stack development, focusing on backend systems, 
+    database design, API development, and application security.This backend will support various functionalities required 
+    to mimic the core features of Airbnb, ensuring a smooth experience for users and hosts leveraging on a high-level 
+    Python web framework like Django and CI/CD Pipelines for automated pipelines for testing and deploying code changes.
 
 🏆 Project Goals
 
@@ -104,15 +105,18 @@ Feature Breakdown
     Ensure efficient data retrieval
     Enable save storage of user and property data. 
     Enhance database optimizations.
-
+    
   API Security
+  
     Authentication: this ensures that users are completely verified before giving access to data from the system. 
     Authorization: this features declares and defines the data that can be accessed and modified by the user.
     Rate limiting: this system defines and manages the ratings a user to create for a property.
-    Protecting user data: security is essential in protecting user data to prevent unauthorize access and modification to user data. 
+    Protecting user data: security is essential in protecting user data to prevent unauthorize access and 
+    modification to user data. 
     Securing payments: security features to secure payments deny intruders from having access to payment systems.
   
   CI/CD Pipeline
+  
     A CI/CD pipeline is an automated process that streamlines software development by integrating, testing and 
     deploying code changes continuously.CI stands for Continuous Integration whereas CD stands for Continuous 
     Delivery/Deployment. It aims to release software updates faster and more reliably. Some CI/CD Pipelines include
