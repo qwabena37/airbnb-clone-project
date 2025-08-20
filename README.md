@@ -77,22 +77,18 @@ Feature Breakdown
     Implement a secure system for user registration.
     Deploys a system for user authentication. 
     Creates a feature for profile management.
-    
     Property Management 
     Develop features for property listing creation.
     Develops system for flexible updates of properties.
     Creates a reliable channel for the retrieval of data.
-    
     Booking System
     Creates a booking mechanism for users to reserve properties. 
     Deploy a feature to enable management of booking details.
     Implement a system to enable users access their booking details.
-    
     Payment Processing 
     Integrate a payment system to handle transactions.
     Deploy systems to record payment details.
     Create a user friendly payment system.
-    
     Review System
     Allow users to leave reviews for each property booked.
     Create a feature to allow users rate specific properties.
